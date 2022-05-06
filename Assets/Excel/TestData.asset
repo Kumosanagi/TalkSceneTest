@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45f66482bbb4b204a8a9c1c7d979edbf, type: 3}
+  m_Name: TestData
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - number: 1
+      text: "\u5B89\u7D0D\u828B"
+    - number: 2
+      text: "\u3044\u3061\u3054"
+    - number: 3
+      text: "\u3046\u306A\u304E\u30D1\u30A4"
+    - number: 4
+      text: "\u7159\u7A81"
+    - number: 5
+      text: "\u30AA\u30DA\u30EC\u30FC\u30C6\u30A3\u30F3\u30B0\u30B7\u30B9\u30C6\u30E0"
